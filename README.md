@@ -1,15 +1,15 @@
 
 <h1 align="center">🐱自述喵~</h1>
 
-<p>A pioneer from Earth（**bushi**）</p>
+<p>A pioneer from Earth（bushi）</p>
 
 <p>对 一切事物抱有好奇心，</p>
 
 <p>喜欢看番/看书/打游戏，喜欢和朋友交流，喜欢学习新知识</p>
 
-<p>经常思考、睡觉、游戏🤺与朋友们交流以及记性不太好（**欸嘿**）</p>
+<p>经常思考、睡觉、游戏🤺与朋友们交流以及记性不太好（欸嘿）</p>
 
-<p>现在正在学习网络安全（~~是一个不合格的菜鸡喵~~）</p>
+<p>现在正在学习网络安全（~是一个不合格的菜鸡喵~）</p>
 
 <p>在校实习ing......</p>
 
@@ -30,7 +30,7 @@ guess,嘻嘻
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vernuser)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_blue)
 
 
 
