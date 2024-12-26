@@ -25,7 +25,7 @@
 
 guess,嘻嘻
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vernuser)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vernuser)](https://github.com/vernuser)
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/NightZer0x)
