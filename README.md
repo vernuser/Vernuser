@@ -28,8 +28,6 @@ guess,嘻嘻
 
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NightZer0x)
-
-
 [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://vernus.top/vernus)
 
 [![vernuser's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernuser)](https://github.com/vernuser)
