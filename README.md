@@ -25,7 +25,7 @@
 
 guess,嘻嘻
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vernuser)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vernuser)](https://git.io/streak-stats)
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/NightZer0x)
