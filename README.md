@@ -19,6 +19,8 @@
 
 <p>喜欢渗透，努力的在学习渗透</p>
 
+<p>会一点点python/yaml/php/C++/go....</p>
+
 <p>现在在学习代码审计</p>
 
 <h1 align="center">How to reach me?</h1>
